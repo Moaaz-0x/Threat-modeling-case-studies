@@ -20,7 +20,7 @@ Each case study includes:
 - Tradeoffs, accepted or deferred risks
 - Lessons learned
 
-## CCStudiesudiessudies
+## Case studies
 - [Secure External Project Sharing](https://github.com/Moaaz-0x/Threat-modeling-case-studies/tree/main/external-project-sharing)
 
 More case studies will be added over time.
