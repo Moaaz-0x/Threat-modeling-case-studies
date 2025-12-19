@@ -22,6 +22,6 @@ Each case study includes:
 
 ## Case studies
 - [Secure External Project Sharing](https://github.com/Moaaz-0x/Threat-modeling-case-studies/tree/main/external-project-sharing)
-- [Multi Tenant Task Authorization](https://github.com/Moaaz-0x/Threat-modeling-case-studies/tree/main/case-studies/multi-tenant-task-authorization)
+- [Multi Tenant Task Authorization](https://github.com/Moaaz-0x/Threat-modeling-case-studies/tree/main/multi-tenant-task-authorization)
 
 More case studies will be added over time.
