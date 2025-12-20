@@ -23,5 +23,6 @@ Each case study includes:
 ## Case studies
 - [Secure External Project Sharing](https://github.com/Moaaz-0x/Threat-modeling-case-studies/tree/main/external-project-sharing)
 - [Multi Tenant Task Authorization](https://github.com/Moaaz-0x/Threat-modeling-case-studies/tree/main/multi-tenant-task-authorization)
+- [RealWorld Node Express API](https://github.com/Moaaz-0x/Threat-modeling-case-studies/tree/main/realworld)
 
 More case studies will be added over time.
